@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF Nickelodeon USA
+#EXTINF:-1,Nickelodeon USA
 http://d8bd04cd.megogo.xyz/iptv/99HGWHU54PYBY4/1069/index.m3u8
-#EXTINF Nickelodeon Europe
+#EXTINF:-1,Nickelodeon Europe
 http://d8bd04cd.megogo.xyz/iptv/99HGWHU54PYBY4/541/index.m3u8
-#EXTINF Nicktoons Russia Tv Rating
+#EXTINF:-1,Nicktoons Russia Tv Rating
 http://d8bd04cd.megogo.xyz/iptv/99HGWHU54PYBY4/849/index.m3u8
-#EXTINF Nick Jr Russia Tv Rating
+#EXTINF:-1,Nick Jr Russia Tv Rating
 http://d8bd04cd.megogo.xyz/iptv/99HGWHU54PYBY4/114/index.m3u8
-#EXTINF Nick Jr Swedish
+#EXTINF:-1,Nick Jr Swedish
 http://d8bd04cd.megogo.xyz/iptv/99HGWHU54PYBY4/12057/index.m3u8
-#EXTINF Nickelodeon Russia Tv Rating
+#EXTINF:-1,Nickelodeon Russia Tv Rating
 http://d8bd04cd.megogo.xyz/iptv/99HGWHU54PYBY4/9015/index.m3u8
-#EXTINF Nicktoons Danish
+#EXTINF:-1,Nicktoons Danish
 http://d8bd04cd.megogo.xyz/iptv/99HGWHU54PYBY4/12059/index.m3u8
-#EXTINF Nickelodeon Swedish
+#EXTINF:-1,Nickelodeon Swedish
 http://d8bd04cd.megogo.xyz/iptv/99HGWHU54PYBY4/12058/index.m3u8
-#EXTINF Nickelodeon Latin America
+#EXTINF:-1,Nickelodeon Latin America
 http://190.43.232.193:8000/play/a00q/index.m3u8
-#EXTINF Nickelodeon Spain
+#EXTINF:-1,Nickelodeon Spain
 http://red.ipfox.org:8080/osama2022/osama2023/47350?checkedby:iptvcat.com
-#EXTINF Nickelodeon Portuguese
+#EXTINF:-1,Nickelodeon Portuguese
 http://191.212.166.203:4000/play/a06c
-#EXTINF Nickelodeon European Spanish
+#EXTINF:-1,Nickelodeon European Spanish
 http://live.iristv.xyz:8080/marcial/123456/5878
