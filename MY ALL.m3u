@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:1,[RU] Nickelodeon SD
+https://sc.id-tv.kz/Nickelodeon_34_35.m3u8
+#EXTINF:1,[TU] Nicktoons
+http://bit.ly/3lRQ2B9
+#EXTINF:1,[IL] Nickelodeon
+http://46.18.20.46:8000/play/a03t
+#EXTINF:1,[RU] Nicktoons Russia
+https://televiziune.ru/deseneanimate/live1/2f865dc2d884d2945f7483546e8bcda5/16.ts?play=1707
+#EXTINF:1,[SPAIN] Clan
+http://comag.rip:8000/00159101576765/61790209632447/30175
+#EXTINF:1,[CEE] Disney Channel
+http://tv.mtbox.hitv.one:80/lVLAe5b4uv48/o0NPGz38/11549
+#EXTINF:1,[IN] Nick HD + 
+http://103.179.246.243:8000/play/a01c
+#EXTINF:1,[ARABIA] http://185.217.90.110:1084/play/a0ye
+#EXTINF:1,[AL] Çufo http://ceniiptv.ottc.pro:80/REPORT-TV/qaD90PEPVh/3559
+#EXTINF:1,[IN] Nickelodeon
+http://103.162.136.235:4500/play/a01f/index.m3u8
+#EXTINF:1,[GERMANY] Nick Jr
+http://45.135.194.241:8003/play/a03q
+#EXTINF:1,[RU] Nickelodeon (HD)
+http://iptv.prosto.tv:7000/ch68/video.m3u8
+#EXTINF:1,[FRANCE] Nickelodeon
+http://37.235.38.139:4000/play/a03u
+#EXTINF:1,[IRELAND]
+TG4
+https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national_3000_.m3u8
